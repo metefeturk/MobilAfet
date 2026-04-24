@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand_primary">#1B5E20</color>
+    <color name="surface_muted">#FFF1F3F4</color>
+    <color name="outline_soft">#1F000000</color>
+    <color name="brand_secondary">#651FFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#202124</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="error_red">#D32F2F</color>
+</resources>

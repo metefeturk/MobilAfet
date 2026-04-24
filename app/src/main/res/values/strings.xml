@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mobil Afet</string>
+
+    <string name="main_toolbar_title">Mobil Afet</string>
+    <string name="main_title">Mobil Afet</string>
+    <string name="main_subtitle">Afet bilgi ve yönlendirme sistemi</string>
+    <string name="main_intro">Bu uygulama; afet bilgisi, bildirimler, tahliye yönlendirmesi ve profil alanlarını tek çatı altında sunmak üzere tasarlanmıştır. Bir sonraki aşamada canlı veri ve servis entegrasyonları eklenecektir.</string>
+    <string name="main_status_ready">Durum: veri katmanı henüz bağlı değil. Entegrasyon için yapı hazır.</string>
+    <string name="main_section_nav">Yönlendirme</string>
+
+    <string name="btn_disaster_detail">Afet Detayı</string>
+    <string name="btn_notifications">Bildirimler</string>
+    <string name="btn_evacuation">Tahliye Planı</string>
+    <string name="btn_profile">Profil</string>
+
+    <string name="title_disaster_detail">Afet Detayı</string>
+    <string name="desc_disaster_detail">Afet detay bilgileri bu sayfada gösterilecek.</string>
+    <string name="label_disaster_type">Afet Türü</string>
+    <string name="label_severity">Şiddet</string>
+    <string name="label_location">Konum</string>
+    <string name="label_time">Zaman</string>
+    <string name="label_description">Açıklama</string>
+    <string name="section_disaster_fields">Özet alanları</string>
+
+    <string name="title_notifications">Bildirimler</string>
+    <string name="desc_notifications">Bildirim içerikleri bu sayfada gösterilecek.</string>
+    <string name="notifications_empty_glyph">●</string>
+    <string name="notifications_empty_title">Henüz bildirim yok</string>
+    <string name="notifications_empty_message">Kritik uyarılar ve sistem bildirimleri bağlantı kurulduğunda burada listelenecek.</string>
+
+    <string name="title_evacuation">Tahliye Planı</string>
+    <string name="desc_evacuation">Tahliye yönlendirme bilgileri bu sayfada gösterilecek.</string>
+    <string name="section_safe_zone">Güvenli Bölge</string>
+    <string name="section_evacuation_steps">Yönlendirme Adımları</string>
+    <string name="section_emergency_notes">Acil Durum Notları</string>
+
+    <string name="title_profile">Profil</string>
+    <string name="desc_profile">Kullanıcı bilgileri bu sayfada gösterilecek.</string>
+    <string name="profile_avatar_content_description">Profil görseli yer tutucu</string>
+    <string name="label_username">Kullanıcı Adı</string>
+    <string name="label_region">Bölge</string>
+    <string name="label_emergency_preferences">Acil Durum Tercihleri</string>
+
+    <string name="splash_app_name">Mobil Afet</string>
+    <string name="splash_loading">Yükleniyor…</string>
+</resources>

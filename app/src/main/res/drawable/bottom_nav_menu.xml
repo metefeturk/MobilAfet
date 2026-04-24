@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+          android:title="Ana Sayfa" />
+    <item android:id="@+id/nav_map"
+          android:title="Harita" />
+    <item android:id="@+id/nav_notifications"
+          android:title="Bildirimler" />
+    <item android:id="@+id/nav_profile"
+          android:title="Profil" />
+</menu>
